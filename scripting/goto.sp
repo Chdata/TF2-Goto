@@ -5,9 +5,9 @@
 #define PLUGIN_VERSION  "0x01"
 
 public Plugin:myinfo = {
-    name = "Teleport yourself to a player, or teleport them to you.",
+    name = "Goto & Bring Teleport Commands",
     author = "Chdata",
-    description = "Hexy.",
+    description = "Teleport yourself to a player, or teleport them to you.",
     version = PLUGIN_VERSION,
     url = "http://steamcommunity.com/groups/tf2data"
 };
